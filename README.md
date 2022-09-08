@@ -6,4 +6,4 @@ Un buen desarrollador de software trabaja con disciplina y constancia desde el p
 
 No documentes el problema; arréglalo
 
-
+En ocasiones un software termina siendo un jardín abandonado lleno de malas hierbas

@@ -9,3 +9,5 @@ No documentes el problema; arréglalo
 En ocasiones un software termina siendo un jardín abandonado lleno de malas hierbas
 
 Actualizamos
+
+Probamos gitdesktop
